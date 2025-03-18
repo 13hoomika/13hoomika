@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=13hoomika&label=Profile%20views&color=0e75b6&style=flat" alt="13hoomika" /> </p>
 
-- 🌱 I’m currently undergoing training in **Java Full Stack Development**  
+- 🌱 I’m currently learning in **Java Full Stack Development**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **Java Web Development**  
 - 📫 How to reach me **bhoomikacp24@gmail.com**  
