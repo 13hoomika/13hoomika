@@ -4,14 +4,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="300" align="right"/>
   
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=13hoomika&label=Profile%20views&color=0e75b6&style=flat" alt="13hoomika" />
-  </p>
-
-  - 🌱 I'm currently learning **Java Full Stack Development**
-  - 👯 I'm looking to collaborate on **Open Source Projects**
-  - 💬 Ask me about **Java Web Development**
-  - 📫 How to reach me **bhoomikacp24@gmail.com**
+- 🌱 I'm currently learning **Java Full Stack Development**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Java Web Development**
+- 📫 How to reach me **bhoomikacp24@gmail.com**
   
 </div>
 
