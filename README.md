@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bhoomika C P</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="300" align="right"/>
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="250" align="right" style="margin-left: 20px;"/>
   
-- 🌱 I'm currently learning **Java Full Stack Development**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java Web Development**
+- 🌱 I'm currently learning **Java Full Stack Development**<br>
+- 👯 I'm looking to collaborate on **Open Source Projects**<br>
+- 💬 Ask me about **Java Web Development**<br>
 - 📫 How to reach me **bhoomikacp24@gmail.com**
-  
 </div>
+
+<br clear="both">
 
 ---
 
