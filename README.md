@@ -31,11 +31,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=13hoomika&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=13hoomika&layout=compact&langs_count=8&theme=radical"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=13hoomika&show_icons=true&locale=en&layout=compact" alt="13hoomika" /></p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=13hoomika&theme=radical"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=13hoomika&show_icons=true&locale=en" alt="13hoomika" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=13hoomika&" alt="13hoomika" /></p>
