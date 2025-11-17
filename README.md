@@ -18,11 +18,6 @@
 - 🌱 Learning Advanced Java & Spring Boot
 - ⚡ Committed to continuous growth in full stack development
 
-## 🌟 Let's Connect  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhoomikacp/)  
-📫 bhoomikacp24@gmail.com
-
-
 ---
 
 ## 🛠 Tech Stack  
