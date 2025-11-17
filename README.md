@@ -3,7 +3,7 @@
 
 <p align="center">
   📍 Mysuru, Karnata &nbsp;|&nbsp;
-  📧 <a href="mailto:bhoomikacp24@gmail.com">keerthisr0102@gmail.com</a> &nbsp;|&nbsp;
+  📧 <a href="mailto:bhoomikacp24@gmail.com">bhoomikacp24@gmail.com</a> &nbsp;|&nbsp;
   🔗 <a href="https://portfolio-mu-bay-20.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/bhoomikacp/">LinkedIn</a> &nbsp;|&nbsp;
 </p>
